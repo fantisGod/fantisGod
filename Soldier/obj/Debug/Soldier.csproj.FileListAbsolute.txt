@@ -1,0 +1,6 @@
+G:\VsWorkSpace\Soldier\Soldier\bin\Debug\Soldier.exe.config
+G:\VsWorkSpace\Soldier\Soldier\bin\Debug\Soldier.exe
+G:\VsWorkSpace\Soldier\Soldier\bin\Debug\Soldier.pdb
+G:\VsWorkSpace\Soldier\Soldier\obj\Debug\Soldier.csprojResolveAssemblyReference.cache
+G:\VsWorkSpace\Soldier\Soldier\obj\Debug\Soldier.exe
+G:\VsWorkSpace\Soldier\Soldier\obj\Debug\Soldier.pdb
